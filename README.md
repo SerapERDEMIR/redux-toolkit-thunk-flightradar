@@ -37,3 +37,5 @@ axios
 bootstrap
 leaflet
 react-leaflet
+
+<img src="/public/radar.gif" />
