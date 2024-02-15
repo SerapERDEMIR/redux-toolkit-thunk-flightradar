@@ -38,4 +38,4 @@ bootstrap
 leaflet
 react-leaflet
 
-<img src="/public/radar.gif" />
+<img src="./public/radar.gif" />
